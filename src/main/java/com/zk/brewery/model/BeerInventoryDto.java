@@ -1,4 +1,4 @@
-package com.zk.msscbeerinventoryservice.web.model;
+package com.zk.brewery.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;

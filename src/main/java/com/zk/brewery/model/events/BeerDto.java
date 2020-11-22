@@ -1,4 +1,4 @@
-package com.zk.common.events;
+package com.zk.brewery.model.events;
 
 import com.fasterxml.jackson.annotation.JsonFormat;
 import com.sun.istack.NotNull;

@@ -1,8 +1,8 @@
 package com.zk.msscbeerinventoryservice.web.controllers;
 
+import com.zk.brewery.model.BeerInventoryDto;
 import com.zk.msscbeerinventoryservice.repositories.BeerInventoryRepository;
 import com.zk.msscbeerinventoryservice.web.mappers.BeerInventoryMapper;
-import com.zk.msscbeerinventoryservice.web.model.BeerInventoryDto;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.web.bind.annotation.GetMapping;

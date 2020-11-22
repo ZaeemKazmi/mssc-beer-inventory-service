@@ -1,7 +1,7 @@
 package com.zk.msscbeerinventoryservice.web.mappers;
 
+import com.zk.brewery.model.BeerInventoryDto;
 import com.zk.msscbeerinventoryservice.domain.BeerInventory;
-import com.zk.msscbeerinventoryservice.web.model.BeerInventoryDto;
 import org.mapstruct.Mapper;
 
 @Mapper(uses = {DateMapper.class})

@@ -1,6 +1,6 @@
 package com.zk.msscbeerinventoryservice.services;
 
-import com.zk.common.events.NewInventoryEvent;
+import com.zk.brewery.model.events.NewInventoryEvent;
 import com.zk.msscbeerinventoryservice.config.JmsConfig;
 import com.zk.msscbeerinventoryservice.domain.BeerInventory;
 import com.zk.msscbeerinventoryservice.repositories.BeerInventoryRepository;
